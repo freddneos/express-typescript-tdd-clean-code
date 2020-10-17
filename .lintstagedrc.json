@@ -1,0 +1,6 @@
+{
+    "*.ts": [
+        "tslint 'src/** --fix",
+        "git add"
+    ]
+}
