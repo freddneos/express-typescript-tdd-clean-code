@@ -56,7 +56,13 @@
     },
     "trailing-comma": {
       "severity": "warning"
-    }
+    },
+    "quotemark": [
+      true,
+      "single",
+      "avoid-escape",
+      "avoid-template"
+    ]
   },
   "defaultSeverity": "error"
 }
