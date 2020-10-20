@@ -33,8 +33,9 @@ export class SignupController implements Controller {
                 password
             })
             return ok(account)
-        } catch (error) {
+        }catch(error) {
             console.log(error)
             return serverError()
-        }}
+        }
+    }
 }
