@@ -7,3 +7,5 @@ typings/
 node_modules/
 lib/
 coverage/
+**/*-migration.md
+*-migration.md
